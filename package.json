@@ -1,7 +1,7 @@
 {
   "private": false,
   "author": "Patrick",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Test only, do not install",
   "main": "dist/index.html",
   "name": "pengbocoder-button-demo",

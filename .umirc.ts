@@ -8,4 +8,4 @@ const config = defineConfig({
   npmClient: 'yarn',
 });
 
-export default config;
+module.exports = config;
