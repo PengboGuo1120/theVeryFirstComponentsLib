@@ -1,4 +1,4 @@
-import { defineConfig } from "umi";
+const { defineConfig } = require("umi");
 
 export default defineConfig({
   routes: [

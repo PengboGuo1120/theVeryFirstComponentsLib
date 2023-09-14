@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "description": "Test only, do not install",
   "main": "dist/index.html",
+  "name": "pengbocoder-button-demo",
   "scripts": {
     "dev": "umi dev",
     "build": "umi build",
